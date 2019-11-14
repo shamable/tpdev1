@@ -14,7 +14,7 @@ des propriétés _rue_, _ville_ et _codePostal_.
 **B]** Modifier le programme (https://github.com/ocapuozzo/tpdev1), classe _Main_, afin de 
 
 1. Créer un client en lui affectant une adresse d'habitation et une autre de livraison. 
-2. Affiche l'état textuel de l'objet Client ainsi créé.
+2. Afficher l'état textuel de l'objet Client ainsi créé.
 
 Le client de test : 
 ```
