@@ -6,7 +6,7 @@ Considérons une application qui travaille avec des objets de type Client (nom, 
 liés à une adresse de domicile, optionnelle, dite de livraison. La classe _Adresse_ sera composée 
 des propriétés _rue_, _ville_ et _codePostal_.
 
-![classe Client][Client.png]
+![classe Client](https://raw.githubusercontent.com/ocapuozzo/tpdev1/master/Client.png)
 
 
 **A]** Concevoir un diagramme de classes qui présente les classes Adresse et Client et leurs associations. Vous utilisez un modeleur UML, par exemple dia.
